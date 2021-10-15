@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(194, 51, 32);
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.img {
+    width: 300px;
+}
